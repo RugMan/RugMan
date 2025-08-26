@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @RugMan
+- 👋 Hi, I’m @RugMan  or @eyezyer
 - 👀 I’m interested in MacOS on older, unsupported machines
 - 🌱 I’m currently learning MacOS on older, unsupported machines
 - 💞️ I’m looking to collaborate on MacOS on older, unsupported machines
-- 📫 How to reach me rugman@gmail.com
+- 📫 How to reach me eyezyer@thantheother.com (replaces rugman@gmail.com)
 
 <!---
 RugMan/RugMan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
